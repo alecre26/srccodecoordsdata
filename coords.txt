@@ -1,0 +1,4 @@
+X_Coord: 257 Y_Coord: 131
+X_Coord: 257 Y_Coord: 131
+X_Coord: 379 Y_Coord: 159
+X_Coord: 379 Y_Coord: 159
