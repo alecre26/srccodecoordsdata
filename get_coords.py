@@ -12,7 +12,7 @@ class Coordinates:
     def run(self):
         run = True
         while run:
-            timer = pygame.time.delay(100)
+            pygame.time.delay(100)
             for e in pygame.event.get():
                 if e.type == pygame.QUIT:
                     run = False
